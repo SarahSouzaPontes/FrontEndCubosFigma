@@ -1,0 +1,66 @@
+body{
+    background: #F2F5FE;
+}
+.card {
+    margin:20px auto;
+    background-color: #FFF;
+    box-sizing: border-box;
+    box-shadow: 0px 15px 30px -20px #D4DCF3;
+    border-radius: 10px;
+    color: #101439;
+}
+.card-light {
+background-color: #FFF;
+color: #101439;
+}
+.card-dark {
+background-color: #101439;
+color:  #FFF ;
+}
+
+.quote{
+padding: 60px 85px;
+max-width: 505px;
+margin-bottom:126 px;
+} 
+
+.quote p {
+    font-family: "Merriweather", serif;
+    font-size: 22px;
+    line-height: 36px;
+    margin-bottom:38 px;
+}
+
+.quote span, .alert span {
+    font-family: "Open Sans", sans-serif;
+    font-size:14px;
+}
+.alert {
+    padding: 60px;
+    max-width: 430px;
+}
+
+.alert span {
+    margin-bottom:10 px;
+}
+
+.alert h1 {
+    font-family: "Marriweather", serif;
+    font-size:22px;
+    line-height:32px; 
+    margin-bottom:13 px;
+}
+.alert p{
+    font-family: "Open Sans", sans-serif;
+    font-size:14px;
+    line-height:28px; 
+    margin-bottom:55 px;
+}
+alert a{
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    background: #FFFFFF;
+    border-radius:10px;
+    color: #101439;
+    padding: 25px 100px;
+}
